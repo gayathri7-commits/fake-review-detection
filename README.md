@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
+# Welcome to Fake Review Detection Project
 
-TODO: Document your project here
